@@ -8,10 +8,14 @@ public class BillingImpl {
 	
 	
 	
-	@Autowired
+	
 	private PriceMatrixImpl price; //dependency class reference
 	
-	
+
+	public BillingImpl(PriceMatrixImpl price) {
+		this.price = price;
+	}
+
 	public double getCartTotal(String cart[]) {
 		
 		double total=0.0;
