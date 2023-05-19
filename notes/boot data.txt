@@ -8,6 +8,21 @@ boot data
 2.orm => JPA + Hibernate (data jpa)
 
 
+  Datasource (auto sence)
+====================
+1.Hicari CP
+2.Tomcat 
+3.DBCP2
+4.OracleUCP
+5.Generic Datasource
+
+Repository
+===================
+
+
+
+
+
 
 
 
