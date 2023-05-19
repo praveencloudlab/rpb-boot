@@ -1,0 +1,14 @@
+boot data
+=================
+=> use to persist data permanently in any dataabases
+
+2 types
+================
+1.jdbc template
+2.orm => JPA + Hibernate (data jpa)
+
+
+
+
+
+
